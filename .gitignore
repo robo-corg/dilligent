@@ -1,0 +1,5 @@
+/target
+.venv
+.ruff_cache
+/pickle_crawler/data
+.python-version
